@@ -1,5 +1,6 @@
 # Aurora_AI
 Artificial Inteligence created at NASA´s Hackathon, to predict solar tempests.
+Access for more: https://marshallsufsc.wiki/
 
 Tho access and use the data, you can acess our database present here:
 https://drive.google.com/drive/folders/1Jrlf73-H-vAi_TUq4fdjE6nvBW-O4639?usp=sharing
